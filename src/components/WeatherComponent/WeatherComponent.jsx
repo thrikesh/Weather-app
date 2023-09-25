@@ -30,7 +30,7 @@ function WeatherComponent() {
           placeholder="City Name"
           onChange={weatherFunction}
         />
-        <button className='btn' onClick={fetchWeatherData}>Click</button>
+        <button  onClick={fetchWeatherData}>Click</button>
         <br></br>
         {data.current && (
           <div>

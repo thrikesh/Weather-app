@@ -5,6 +5,8 @@
     max-width: 1;
     font-family: cursive;
     background-image: url('C:\Users\SEC\Documents\mern\react\weather_app\src\components\WeatherComponent\images\brian-mcgowan-kKyxIwvljBg-unsplash.jpg');
+    background-color: bisque;
+    
 
 
 }
@@ -27,7 +29,9 @@ input{
     border: 1px solid white;
 }
 button{
-    color: white;
+    color:goldenrod;
+    background-color: rgb(200, 11, 150);
+    font-size: 16px;
 }
 p{
     font-size: 20px;
